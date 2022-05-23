@@ -1,0 +1,14 @@
+#show_product{
+    margin-left: 85%;
+    align-items: center;
+    align-content: center;
+    display: flex;
+   
+}
+
+#box{
+    margin-left: 35%;
+}
+a{
+    text-decoration: none;
+  }
